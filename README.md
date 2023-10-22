@@ -21,7 +21,7 @@ Help > shortcuts or shift+ctrl+K (PC) shift+cmd+K (MAC)
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, please report them on the [Issues page](https://github.com/YourUsername/YourRepository/issues).
+If you find any issues or have suggestions for improvements, please report them on the [Issues page](https://github.com/autobotcode/blender_shortcuts_help/issues).
 
 ## License
 
